@@ -4,7 +4,5 @@ Popular Movies (Stage 1) is an Android app that displays the most popular or top
 
 Instructions for running the app:
 - To run this project, include an API key from themoviedb.org in the 'gradle.properties'.
-- If you don’t already have an account, you will need to create one in order to request an API Key. 
-  In your request for a key, state that your usage will be for educational/non-commercial use. 
-  You will also need to provide some personal information to complete the request.
-  Once you submit your request, you should receive your key via email shortly after.
+- You will need to create one in order to request an API Key. 
+  
